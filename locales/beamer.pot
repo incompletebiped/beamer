@@ -4364,6 +4364,10 @@ msgstr ""
 msgid "Earlier ways"
 msgstr ""
 
+#: win_app/kvm_bridge_win.py
+msgid "Press Esc three times to come home"
+msgstr ""
+
 #: win_app/kvm_bridge_win.py win_app/pages_win.py
 #, python-brace-format
 msgid "hold {key}"
@@ -4532,6 +4536,10 @@ msgstr ""
 
 #: win_app/kvm_bridge_win.py
 msgid "Each chip is a side of this screen; click one to add or remove it. The side a machine touches crosses on its lit thirds; any other free side wraps round to it, arriving on its far side. A corner is a diagonal push, shown as a square on the map."
+msgstr ""
+
+#: win_app/kvm_bridge_win.py
+msgid "Tap Esc three times quickly while you drive another machine. The first two taps still reach that machine; the third brings input home."
 msgstr ""
 
 #: win_app/kvm_bridge_win.py
@@ -4705,6 +4713,11 @@ msgstr ""
 
 #: win_app/kvm_bridge_win.py
 msgid "These ways could not be changed."
+msgstr ""
+
+#: win_app/kvm_bridge_win.py
+#, python-brace-format
+msgid "Came home from {name} on three presses of Esc. Turn this off in Crossing → Way home."
 msgstr ""
 
 #: win_app/kvm_bridge_win.py
